@@ -301,3 +301,5 @@ Increasing Tweepy’s standard API search limit. https://bhaskarvk.github.io/201
 2) https://github.com/irfnrdh/Awesome-Indonesia-NLP
 3) https://github.com/kirralabs/indonesian-NLP-resources
 4) https://huggingface.co/datasets?filter=languages%3Aid&p=0
+
+- [AgentMarket](https://agentmarket.cloud) - Real energy data API for AI agents. 28M+ records. Bahasa Indonesia support coming!
